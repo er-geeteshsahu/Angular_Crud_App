@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "iphone",
+      "category": "Electronics",
+      "date": "2023-08-03T06:00:00.000Z",
+      "freshness": "Second Hand",
+      "price": 500000,
+      "comment": "new iphone",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
